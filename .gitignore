@@ -2,6 +2,9 @@
 config.py
 API_practice.ipynb
 random_numbers.ipynb
+API_Example.ipynb
+try-except.ipynb
+weather_data
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
